@@ -26,11 +26,6 @@ __Languages and tools I like to use:__
 
 ---
 
-### GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-vasconcelos-dev88&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/pedro-vasconcelos-dev)
-
-
 ## 📫 How to Reach Me?
 If you are interested in discussing projects, collaborations, or just want to talk about technology and development, feel free to get in touch!
 
