@@ -28,7 +28,7 @@ __Languages and tools I like to use:__
 
 ### GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doronz88&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/doronz88)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-vasconcelos-dev88&layout=compact&langs_count=6&hide=assembly&theme=dark)](https://github.com/pedro-vasconcelos-dev)
 
 
 ## 📫 How to Reach Me?
@@ -37,7 +37,7 @@ If you are interested in discussing projects, collaborations, or just want to ta
 📧 **Email:** [pedro_vasconcelos_@outlook.com](mailto:pedro_vasconcelos_@outlook.com)
 
 ## 🔍 Where to Find Me?
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/pedro-lucas-vasconcelos-62a683229/)
+- **LinkedIn:** [Pedro Vasconcelos](https://linkedin.com/in/pedro-lucas-vasconcelos-62a683229/)
 - **GitHub:** You're already here!
 
 ---
