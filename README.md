@@ -2,20 +2,21 @@
 
 Welcome to my GitHub profile!
 
-- 💼 Nowadays I work as **RPA Developer**!
-- 🗣️ **Idioms:** Portuguese (Native), English (Intermediate/Advanced)
+- 💼 Nowadays, I work as an **RPA Developer** focused on transforming business processes through automation.
+- 🗣️ **Languages:** Portuguese (Native), English (Intermediate/Advanced)
 
 ## 🌟 Professional Goals
-I am deeply passionate about developing RPA tools and automations that streamline processes and enhance efficiency across various industries. My enthusiasm drives me to explore innovative solutions that can transform the way businesses operate.
+I'm passionate about developing automation tools that streamline processes, enhance accuracy, and improve efficiency across industries. My current focus is on mastering Golang to build scalable and robust solutions that take my automation projects to the next level.
 
-Currently, I am particularly focused on deepening my expertise in Golang. This study is part of my broader goal to enhance my technical skills and integrate more robust and scalable solutions into my automation projects.
+---
 
 ## 🚀 My Current Focus
-- **RPA Development:** Passionate about creating automation tools that improve accuracy and productivity.
-- **Golang Mastery:** Actively studying Golang to build high-performance applications that can handle complex automation tasks with ease.
+- **RPA Development:** Building automation tools that drive productivity.
+- **Golang Mastery:** Studying Golang to deliver high-performance applications for complex automation challenges.
 
-__Languages and tools I like to use:__
+---
 
+## ⚙️ Languages and Tools
 <span>
 	<img title="Go" height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 	<img title="Node.js"     height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -28,12 +29,9 @@ __Languages and tools I like to use:__
 ## 📫 How to Reach Me?
 If you are interested in discussing projects, collaborations, or just want to talk about technology and development, feel free to get in touch!
 
-📧 **Email:** [pedro_vasconcelos_@outlook.com](mailto:pedro_vasconcelos_@outlook.com)
-
-## 🔍 Where to Find Me?
-- **LinkedIn:** [Pedro Vasconcelos](https://linkedin.com/in/pedro-lucas-vasconcelos-62a683229/)
-- **GitHub:** You're already here!
+📧 **Email:** [pedro_vasconcelos_@outlook.com](mailto:pedro_vasconcelos_@outlook.com)  
+🔗 **LinkedIn:** [Pedro Vasconcelos](https://linkedin.com/in/pedro-lucas-vasconcelos-62a683229/)
 
 ---
 
-Thank you for visiting, and feel free to check out my repositories!
+Thank you for visiting! Feel free to explore my repositories and connect with me on LinkedIn!
