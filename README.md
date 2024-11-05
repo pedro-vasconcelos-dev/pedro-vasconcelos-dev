@@ -17,11 +17,10 @@ Currently, I am particularly focused on deepening my expertise in Golang. This s
 __Languages and tools I like to use:__
 
 <span>
-	<img title="Go" height="30" style="padding: 5px;" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png](https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png)" />
+	<img title="Go" height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 	<img title="Node.js"     height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 	<img title="JavaScript" height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 	<img title="Python"     height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-	<img title="PHP"        height="30" style="padding: 5px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 </span>
 
 ---
